@@ -6,6 +6,7 @@
 
 
   <body>
+    <a href="fprj.html">Back to Cipher Page</a>
 
     <h1>Autokey Cipher</h1>
     <p>You can Encrypt or decyrpt a message using the autokey cipher.</p>
